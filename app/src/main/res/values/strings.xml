@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VoziMe!</string>
+    <string name="title_vehicle">Vehicle</string>
+    <string name="title_history">History</string>
+    <string name="title_profile">Profile</string>
+    <string name="location_address">Address</string>
+    <string name="location_city">City</string>
+    <string name="location_country">Country</string>
+    <string name="contact_number">Number</string>
+    <string name="time">Time</string>
+    <string name="submit">Look for a vehicle</string>
+    <string name="title_activity_vehicle">VehicleActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Requests</string>
+    <string name="sync_header">Payment</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Special Requests</string>
+    <string name="reply_title">Vehicle for how many persons?</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Pay with credit card</string>
+    <string name="attachment_title">Leave tip in advance</string>
+    <string name="attachment_summary_on">The tip can be given after the ride
+    </string>
+    <string name="attachment_summary_off">You can pay with cash as well</string>
+</resources>
